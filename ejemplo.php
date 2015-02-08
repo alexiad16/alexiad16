@@ -1,1 +1,1 @@
-<?php Hola Mundo by PHP ?>
+Hola Mundo by PHP
