@@ -17,7 +17,7 @@
         $('#main_content').headsmart()
       })
     </script>
-    <title>Página Principal</title>
+    <title>Página <?php echo 'Hola Mundo'; ?></title>
   </head>
 
   <body>
